@@ -1,3 +1,5 @@
+#https://github.com/Andredev-dias/Base-de-algoritmos-em-C-v3/blob/master/listamold6.c
+
 print("LOJA DE CAMISETAS")
 
 def calculo(p, m, g, nome):
